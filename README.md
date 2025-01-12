@@ -72,20 +72,18 @@ Below is a simplified explanation of the app's workflow using pseudocode:
 ## Example Output  
 When the app runs, it displays a professional resume like the one shown below:  
 
--------------------------------------------------
-            [Student Name]
-123 Main Street, Anytown USA, 12345 | (123) 456-7890 | studentname@email.com  
--------------------------------------------------
-Education: 
-- Master of Science in Computer Science
-  University of XYZ | May 2023  
-- Bachelor of Science in Computer Science
-  University of ABC | May 2021  
+            Keerthi Turakapalli
+  123 Main Street, Washington USA, 12345 | (123) 456-7890 | keerthiturakapalli@cityu.com  
 
-Skills: Java, Python, JavaScript, etc.  
-Work Experience: Software Development Intern at XYZ Corporation.  
-Projects: Online Bookstore, Personal Website.  
--------------------------------------------------
+          Education: 
+            - Master of Science in Computer Science
+          University of XYZ | May 2023  
+             - Bachelor of Science in Computer Science
+          University of ABC | May 2021  
+
+          Skills: Java, Python, JavaScript, etc.  
+          Work Experience: Software Development Intern at XYZ Corporation.  
+          Projects: Online Bookstore, Personal Website.  
 
 ##Flow Chart
 
