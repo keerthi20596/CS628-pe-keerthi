@@ -1,0 +1,37 @@
+.movie-list {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .filter {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .filter label {
+    margin-right: 10px;
+  }
+  
+  .filter select {
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  .movies {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .movie-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+    text-align: left;
+  }
+  
+  .movie-card:hover {
+    background-color: #f9f9f9;
+  }
+  
